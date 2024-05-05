@@ -49,7 +49,7 @@ export const projectsConfig: projectTypes = {
       imgSrc:
         "https://raw.githubusercontent.com/Agustinidelyanti/Agustini_yanti/main/assets/project2.png",
       description:
-        "Logo untuk Green & Sweets Haven",
+        "Logo untuk Green & Sweets Haven Menjual Berbagai Macam Buah yang Enak",
       technologies: [
         { icon: SiNextdotjs, iconName: "Next.js" },
         { icon: SiReactquery, iconName: "React Query" },
