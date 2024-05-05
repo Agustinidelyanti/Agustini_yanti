@@ -7,7 +7,7 @@ export interface homeTypes {
   iconsLink: Array<{
     icon: IconType;
     iconName: string;
-    directLink: string;
+    directLink: string; 
     title: string;
     color: string;
   }>;
@@ -15,7 +15,7 @@ export interface homeTypes {
 
 export const homeConfig: homeTypes = {
   resume:
-    "https://drive.google.com/file/d/1kur2J1g6nO0T2vtXbSsOiqCq0xTZBHqj/view?usp=sharing",
+    "https://drive.google.com/file/d/1HhfsMcf29xi7sBbmZb3zSY2Ixph1gqaK/view?usp=sharing",
 
   iconsLink: [
     {
@@ -23,7 +23,7 @@ export const homeConfig: homeTypes = {
       iconName: "FIgma",
       title: "@Agustini",
       color: "text-orange-600",
-      directLink: "https://www.figma.com/",
+      directLink: "https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1235922763035669382",
     },
     {
       icon: AiFillGithub,
