@@ -5,25 +5,25 @@ export type dataButton = {
 export const footerConfig: dataButton = {
   buttonAttributes: [
     {
-      url: "https://mail.google.com/mail/?view=cm&fs=1&to=rachmatghaly09@gmail.com",
+      url: "https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrkWNFNvWwxbgnXbnHRWJJbngXWgqFtFWLMtWFhhfGwScqjtBvxVxQBnvNWzwBbJNqBLMg",
       title: "My Email",
       icon: "fa fa-envelope-o",
     },
 
     {
-      url: "https://github.com/ghaly09",
+      url: "https://github.com/Agustinidelyanti",
       title: "My Github",
       icon: "fa fa-github",
     },
 
     {
-      url: "https://www.linkedin.com/in/rachmat-ghaly/",
+      url: "https://www.linkedin.com/in/agustini-delyanti-2011a7308/",
       title: "My linkedin",
       icon: "fa fa-linkedin-square",
     },
 
     {
-      url: "https://id.pinterest.com/rachmatghaly/",
+      url: "https://id.pinterest.com/agustinidelyanti/",
       title: "My pinterest",
       icon: "fa fa-pinterest",
     },
