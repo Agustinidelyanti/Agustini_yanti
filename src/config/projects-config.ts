@@ -33,34 +33,34 @@ export const projectsConfig: projectTypes = {
     {
       title: "Website Apotek",
       imgSrc:
-        "https://res.cloudinary.com/druckyjuu/image/upload/v1690123952/Projects/StayDoors_lemzur.svg",
+        "https://raw.githubusercontent.com/Agustinidelyanti/Agustini_yanti/main/assets/project1.png",
       description:
-        "A Hotels Reservation App using React Native for finding and booking many Hotels and Destinations.",
+        "Webiste Apotek untuk Rumah Sakit Umum Provinsi Tanjungpinang.",
       technologies: [
         { icon: TbBrandReactNative, iconName: "React Native" },
         { icon: SiRedux, iconName: "Redux" },
       ],
       date: "July 13, 2023",
       directLink:
-        "https://github.com/FinalProject03-Kel04-Hacktiv8/Kel04-FP03-Hacktiv8-Hotel-Reservation-MobileApp",
+        "https://github.com/Agustinidelyanti/Agustini_yanti/tree/main",
     },
-    // {
-    //   title: "Geex",
-    //   imgSrc:
-    //     "https://res.cloudinary.com/druckyjuu/image/upload/v1705319418/thumbnails/Geex_lnfe5o.svg",
-    //   description:
-    //     "An E-commerce Web Application as a place to buy and sell various items and products specifically for games and gamers.",
-    //   technologies: [
-    //     { icon: SiNextdotjs, iconName: "Next.js" },
-    //     { icon: SiReactquery, iconName: "React Query" },
-    //     { icon: SiRedux, iconName: "Redux" },
-    //     { icon: SiTailwindcss, iconName: "Tailwindcss" },
-    //     { icon: SiFramer, iconName: "Framer Motions" },
-    //     { icon: SiVercel, iconName: "Vercel" },
-    //   ],
-    //   date: "July 13, 2021",
-    //   directLink: "https://geex-frontend.vercel.app",
-    // },
+    {
+      title: "Canva Logo",
+      imgSrc:
+        "https://raw.githubusercontent.com/Agustinidelyanti/Agustini_yanti/main/assets/project2.png",
+      description:
+        "Logo untuk Green & Sweets Haven",
+      technologies: [
+        { icon: SiNextdotjs, iconName: "Next.js" },
+        { icon: SiReactquery, iconName: "React Query" },
+        { icon: SiRedux, iconName: "Redux" },
+        { icon: SiTailwindcss, iconName: "Tailwindcss" },
+        { icon: SiFramer, iconName: "Framer Motions" },
+        { icon: SiVercel, iconName: "Vercel" },
+      ],
+      date: "July 13, 2021",
+      directLink: "https://github.com/Agustinidelyanti/Agustini_yanti/tree/main",
+    },
     // {
     //   title: "ComingSoon",
     //   imgSrc:
