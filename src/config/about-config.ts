@@ -153,7 +153,7 @@ export const aboutConfig: dataAbout = {
       description: "Here is My Licenses & Certifications",
       certificates: [
         {
-          title: "Webinar Internasional Airlangga",
+          title: "Webinar Internasional Airlangga Forum of Public",
           description: "Recovery of post pandemic sosio-economic aspect towards SDGs 2030",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti1.png?raw=true",
@@ -161,72 +161,72 @@ export const aboutConfig: dataAbout = {
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti1.png?raw=true",
         },
         {
-          title: "Seminar",
-          description: "Frontend Engineer",
+          title: "Seminar STTI Share Knowledge Batch 6",
+          description: "Dunia Start Up & Peran Membangun Smart City Tanjungpinang",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti2.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti2.png?raw=true",
         },
         {
-          title: "Seminar",
-          description: "Coursera",
+          title: "Webinar Nasional",
+          description: "Perencanaan Tata Kelola Berbasis Digital dalam Membangun Sistem Terintegrasi",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti3.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti3.png?raw=true",
         },
         {
-          title: "Adobe Illustrator",
-          description: "Coursera",
+          title: "Webinar STITEKNAS Jambi",
+          description: "The Treasure of Applied Science Fundamental Calculuc For Engineering",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti4.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti4.png?raw=true",
         },
         {
-          title: "React.js and React Native Styling Components",
-          description: "Hacktiv8 Indonesia",
+          title: "Seminar STTI Share Knowledge Batch 4",
+          description: "Hidup Harus Punya Tujuan&Target Serta Mengikuti Perkembangan Zaman",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti5.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti5.png?raw=true",
         },
         {
-          title: "ECMAScript 2015 (ES6)",
-          description: "Hacktiv8 Indonesia",
+          title: "Webinar IBLU Academy",
+          description: "Managemen Data dengan Power Query",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti6.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti6.png?raw=true",
         },
         {
-          title: "Software Engineering",
-          description: "Ruangguru",
+          title: "Webinar Pandai Indonesia",
+          description: "Dasar-Dasar Public Speaking",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti7.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti7.png?raw=true",
         },
         {
-          title: "Programming with JavaScript",
-          description: "Ruangguru",
+          title: "Kitalulus-Kita Progresif",
+          description: "New Year New Me, Switch Karir? Siapa Takut!!",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti8.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti8.png?raw=true",
         },
         {
-          title: "Front-End Web Development With HTML & CSS",
-          description: "Ruangguru",
+          title: "Webinar Consultee & Company",
+          description: "Pentingnya Mindset Bagi Millenial Pebisnis di Era Industri 4.0",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti9.png?raw=true",
           directLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/serti9.png?raw=true",
         },
         {
-          title: "Global AI Bootcamp 2018",
-          description: "Dicoding",
+          title: "Webinar Kitalulus",
+          description: "Webinar Tips & Trik Lulus PPPK Guru 2022 | Kitalulus",
           imgLink:
             "https://github.com/Agustinidelyanti/agustini/blob/main/assets/seri9.png?raw=true",
           directLink:
